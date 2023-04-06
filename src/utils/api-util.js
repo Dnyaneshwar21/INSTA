@@ -1,4 +1,4 @@
-const BASE_URL = "https://instaclone-nodejs-dnyaneshwar21.onrender.com"
+const BASE_URL = "https://insta-clone-form.onrender.com"
 
 export function getAllPost() {
 
