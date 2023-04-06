@@ -19,7 +19,7 @@ export default function Post({post}) {
             </section>
 
             <section className='post-img'>
-                <img src={`https://instaclone-nodejs-sabeer.onrender.com/${PostImage}`} alt='Not available'/>
+                <img src={`https://insta-clone-assi4.onrender.com/${PostImage}`} alt='Not available'/>
             </section>
 
             <section className='post-footer'>
